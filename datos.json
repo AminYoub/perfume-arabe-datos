@@ -1,0 +1,1869 @@
+{
+ "generado": "2026-09-12",
+ "fuentes": {
+  "piramides": "2026-09-07",
+  "catalogo": "2026-09-07",
+  "analisis": "2026-09-12"
+ },
+ "universo": {
+  "perfumesActivos": 152,
+  "marcas": 15,
+  "conPiramide": 142,
+  "listaPlana": 8,
+  "notasDistintas": 243,
+  "apariciones": 1412,
+  "notasPorPiramide": 10.1
+ },
+ "notasMasRepetidas": [
+  {
+   "nota": "almizcle",
+   "veces": 74,
+   "porcentaje": 52,
+   "etiqueta": "almizcle"
+  },
+  {
+   "nota": "vainilla",
+   "veces": 60,
+   "porcentaje": 42,
+   "etiqueta": "vainilla"
+  },
+  {
+   "nota": "ambar",
+   "veces": 59,
+   "porcentaje": 42,
+   "etiqueta": "ámbar"
+  },
+  {
+   "nota": "pachuli",
+   "veces": 54,
+   "porcentaje": 38,
+   "etiqueta": "pachulí"
+  },
+  {
+   "nota": "jazmin",
+   "veces": 51,
+   "porcentaje": 36,
+   "etiqueta": "jazmín"
+  },
+  {
+   "nota": "bergamota",
+   "veces": 50,
+   "porcentaje": 35,
+   "etiqueta": "bergamota"
+  },
+  {
+   "nota": "cedro",
+   "veces": 41,
+   "porcentaje": 29,
+   "etiqueta": "cedro"
+  },
+  {
+   "nota": "sandalo",
+   "veces": 39,
+   "porcentaje": 27,
+   "etiqueta": "sándalo"
+  },
+  {
+   "nota": "rosa",
+   "veces": 31,
+   "porcentaje": 22,
+   "etiqueta": "rosa"
+  },
+  {
+   "nota": "haba tonka",
+   "veces": 31,
+   "porcentaje": 22,
+   "etiqueta": "haba tonka"
+  },
+  {
+   "nota": "azafran",
+   "veces": 22,
+   "porcentaje": 15,
+   "etiqueta": "azafrán"
+  },
+  {
+   "nota": "lavanda",
+   "veces": 21,
+   "porcentaje": 15,
+   "etiqueta": "lavanda"
+  },
+  {
+   "nota": "canela",
+   "veces": 21,
+   "porcentaje": 15,
+   "etiqueta": "canela"
+  },
+  {
+   "nota": "limon (lima acida)",
+   "veces": 20,
+   "porcentaje": 14,
+   "etiqueta": "limón"
+  },
+  {
+   "nota": "cardamomo",
+   "veces": 20,
+   "porcentaje": 14,
+   "etiqueta": "cardamomo"
+  }
+ ],
+ "porNivel": {
+  "salida": [
+   {
+    "nota": "bergamota",
+    "veces": 50,
+    "etiqueta": "bergamota"
+   },
+   {
+    "nota": "limon (lima acida)",
+    "veces": 20,
+    "etiqueta": "limón"
+   },
+   {
+    "nota": "azafran",
+    "veces": 18,
+    "etiqueta": "azafrán"
+   },
+   {
+    "nota": "manzana",
+    "veces": 16,
+    "etiqueta": "manzana"
+   },
+   {
+    "nota": "mandarina",
+    "veces": 15,
+    "etiqueta": "mandarina"
+   }
+  ],
+  "corazon": [
+   {
+    "nota": "jazmin",
+    "veces": 42,
+    "etiqueta": "jazmín"
+   },
+   {
+    "nota": "rosa",
+    "veces": 26,
+    "etiqueta": "rosa"
+   },
+   {
+    "nota": "flor de azahar del naranjo",
+    "veces": 15,
+    "etiqueta": "flor de azahar del naranjo"
+   },
+   {
+    "nota": "cedro",
+    "veces": 14,
+    "etiqueta": "cedro"
+   },
+   {
+    "nota": "pachuli",
+    "veces": 13,
+    "etiqueta": "pachulí"
+   }
+  ],
+  "fondo": [
+   {
+    "nota": "almizcle",
+    "veces": 71,
+    "etiqueta": "almizcle"
+   },
+   {
+    "nota": "vainilla",
+    "veces": 52,
+    "etiqueta": "vainilla"
+   },
+   {
+    "nota": "ambar",
+    "veces": 50,
+    "etiqueta": "ámbar"
+   },
+   {
+    "nota": "pachuli",
+    "veces": 42,
+    "etiqueta": "pachulí"
+   },
+   {
+    "nota": "sandalo",
+    "veces": 36,
+    "etiqueta": "sándalo"
+   }
+  ]
+ },
+ "notasMasFieles": [
+  {
+   "nota": "bergamota",
+   "total": 50,
+   "nivel": "salida",
+   "porcentaje": 100,
+   "salida": 50,
+   "corazon": 0,
+   "fondo": 0,
+   "etiqueta": "bergamota"
+  },
+  {
+   "nota": "limon (lima acida)",
+   "total": 20,
+   "nivel": "salida",
+   "porcentaje": 100,
+   "salida": 20,
+   "corazon": 0,
+   "fondo": 0,
+   "etiqueta": "limón"
+  },
+  {
+   "nota": "mandarina",
+   "total": 15,
+   "nivel": "salida",
+   "porcentaje": 100,
+   "salida": 15,
+   "corazon": 0,
+   "fondo": 0,
+   "etiqueta": "mandarina"
+  },
+  {
+   "nota": "ambroxan",
+   "total": 9,
+   "nivel": "fondo",
+   "porcentaje": 100,
+   "salida": 0,
+   "corazon": 0,
+   "fondo": 9,
+   "etiqueta": "ambroxan"
+  },
+  {
+   "nota": "almizcle",
+   "total": 75,
+   "nivel": "fondo",
+   "porcentaje": 95,
+   "salida": 0,
+   "corazon": 4,
+   "fondo": 71,
+   "etiqueta": "almizcle"
+  },
+  {
+   "nota": "manzana",
+   "total": 17,
+   "nivel": "salida",
+   "porcentaje": 94,
+   "salida": 16,
+   "corazon": 1,
+   "fondo": 0,
+   "etiqueta": "manzana"
+  },
+  {
+   "nota": "vetiver",
+   "total": 15,
+   "nivel": "fondo",
+   "porcentaje": 93,
+   "salida": 0,
+   "corazon": 1,
+   "fondo": 14,
+   "etiqueta": "vetiver"
+  },
+  {
+   "nota": "naranja",
+   "total": 14,
+   "nivel": "salida",
+   "porcentaje": 93,
+   "salida": 13,
+   "corazon": 0,
+   "fondo": 1,
+   "etiqueta": "naranja"
+  },
+  {
+   "nota": "toronja (pomelo)",
+   "total": 12,
+   "nivel": "salida",
+   "porcentaje": 92,
+   "salida": 11,
+   "corazon": 1,
+   "fondo": 0,
+   "etiqueta": "toronja"
+  },
+  {
+   "nota": "sandalo",
+   "total": 40,
+   "nivel": "fondo",
+   "porcentaje": 90,
+   "salida": 0,
+   "corazon": 4,
+   "fondo": 36,
+   "etiqueta": "sándalo"
+  }
+ ],
+ "acordesMasRepetidos": [
+  {
+   "acorde": "amaderado",
+   "veces": 101,
+   "porcentaje": 71,
+   "etiqueta": "amaderado"
+  },
+  {
+   "acorde": "dulce",
+   "veces": 89,
+   "porcentaje": 63,
+   "etiqueta": "dulce"
+  },
+  {
+   "acorde": "atalcado",
+   "veces": 86,
+   "porcentaje": 61,
+   "etiqueta": "atalcado"
+  },
+  {
+   "acorde": "ambar",
+   "veces": 86,
+   "porcentaje": 61,
+   "etiqueta": "ámbar"
+  },
+  {
+   "acorde": "afrutados",
+   "veces": 72,
+   "porcentaje": 51,
+   "etiqueta": "afrutados"
+  },
+  {
+   "acorde": "calido especiado",
+   "veces": 71,
+   "porcentaje": 50,
+   "etiqueta": "cálido especiado"
+  },
+  {
+   "acorde": "citrico",
+   "veces": 69,
+   "porcentaje": 49,
+   "etiqueta": "cítrico"
+  },
+  {
+   "acorde": "almizclado",
+   "veces": 67,
+   "porcentaje": 47,
+   "etiqueta": "almizclado"
+  },
+  {
+   "acorde": "aromatico",
+   "veces": 65,
+   "porcentaje": 46,
+   "etiqueta": "aromático"
+  },
+  {
+   "acorde": "avainillado",
+   "veces": 64,
+   "porcentaje": 45,
+   "etiqueta": "avainillado"
+  },
+  {
+   "acorde": "fresco especiado",
+   "veces": 57,
+   "porcentaje": 40,
+   "etiqueta": "fresco especiado"
+  },
+  {
+   "acorde": "floral blanco",
+   "veces": 42,
+   "porcentaje": 30,
+   "etiqueta": "floral blanco"
+  }
+ ],
+ "acordeDominante": [
+  {
+   "acorde": "citrico",
+   "veces": 20,
+   "etiqueta": "cítrico"
+  },
+  {
+   "acorde": "amaderado",
+   "veces": 20,
+   "etiqueta": "amaderado"
+  },
+  {
+   "acorde": "afrutados",
+   "veces": 16,
+   "etiqueta": "afrutados"
+  },
+  {
+   "acorde": "dulce",
+   "veces": 15,
+   "etiqueta": "dulce"
+  },
+  {
+   "acorde": "avainillado",
+   "veces": 14,
+   "etiqueta": "avainillado"
+  },
+  {
+   "acorde": "ambar",
+   "veces": 12,
+   "etiqueta": "ámbar"
+  }
+ ],
+ "firmasDeMarca": [
+  {
+   "marca": "Lattafa",
+   "perfumes": 38,
+   "firma": [
+    {
+     "nota": "flores blancas",
+     "veces": 4,
+     "sobre": 3,
+     "etiqueta": "flores blancas"
+    },
+    {
+     "nota": "azucar",
+     "veces": 3,
+     "sobre": 2.82,
+     "etiqueta": "azúcar"
+    },
+    {
+     "nota": "pimienta negra",
+     "veces": 3,
+     "sobre": 2.82,
+     "etiqueta": "pimienta negra"
+    },
+    {
+     "nota": "mahonial",
+     "veces": 3,
+     "sobre": 2.82,
+     "etiqueta": "mahonial"
+    },
+    {
+     "nota": "nardos",
+     "veces": 4,
+     "sobre": 2.5,
+     "etiqueta": "nardos"
+    }
+   ]
+  },
+  {
+   "marca": "Armaf",
+   "perfumes": 20,
+   "firma": [
+    {
+     "nota": "salvia",
+     "veces": 3,
+     "sobre": 3.11,
+     "etiqueta": "salvia"
+    },
+    {
+     "nota": "ambroxan",
+     "veces": 4,
+     "sobre": 2.76,
+     "etiqueta": "ambroxan"
+    },
+    {
+     "nota": "durazno (melocoton)",
+     "veces": 4,
+     "sobre": 2.26,
+     "etiqueta": "durazno"
+    },
+    {
+     "nota": "vetiver",
+     "veces": 5,
+     "sobre": 2.07,
+     "etiqueta": "vetiver"
+    },
+    {
+     "nota": "geranio",
+     "veces": 3,
+     "sobre": 2.07,
+     "etiqueta": "geranio"
+    }
+   ]
+  },
+  {
+   "marca": "French Avenue",
+   "perfumes": 17,
+   "firma": [
+    {
+     "nota": "madera de gaiac",
+     "veces": 3,
+     "sobre": 3.29,
+     "etiqueta": "madera de gaiac"
+    },
+    {
+     "nota": "amberwood",
+     "veces": 3,
+     "sobre": 2.56,
+     "etiqueta": "amberwood"
+    },
+    {
+     "nota": "musgo",
+     "veces": 3,
+     "sobre": 2.56,
+     "etiqueta": "musgo"
+    },
+    {
+     "nota": "cachemira",
+     "veces": 3,
+     "sobre": 2.3,
+     "etiqueta": "cachemira"
+    },
+    {
+     "nota": "ladano",
+     "veces": 3,
+     "sobre": 2.09,
+     "etiqueta": "ládano"
+    }
+   ]
+  },
+  {
+   "marca": "Afnan",
+   "perfumes": 14,
+   "firma": [
+    {
+     "nota": "manzana",
+     "veces": 6,
+     "sobre": 3.53,
+     "etiqueta": "manzana"
+    },
+    {
+     "nota": "musgo de roble",
+     "veces": 3,
+     "sobre": 3.34,
+     "etiqueta": "musgo de roble"
+    },
+    {
+     "nota": "grosellas negras",
+     "veces": 4,
+     "sobre": 2.86,
+     "etiqueta": "grosellas negras"
+    },
+    {
+     "nota": "nuez moscada",
+     "veces": 3,
+     "sobre": 2.5,
+     "etiqueta": "nuez moscada"
+    },
+    {
+     "nota": "lavanda",
+     "veces": 5,
+     "sobre": 2.38,
+     "etiqueta": "lavanda"
+    }
+   ]
+  },
+  {
+   "marca": "Khadlaj",
+   "perfumes": 14,
+   "firma": [
+    {
+     "nota": "neroli",
+     "veces": 3,
+     "sobre": 5.31,
+     "etiqueta": "neroli"
+    },
+    {
+     "nota": "cardamomo",
+     "veces": 4,
+     "sobre": 2.48,
+     "etiqueta": "cardamomo"
+    },
+    {
+     "nota": "bergamota",
+     "veces": 9,
+     "sobre": 2.23,
+     "etiqueta": "bergamota"
+    },
+    {
+     "nota": "jengibre",
+     "veces": 3,
+     "sobre": 2.19,
+     "etiqueta": "jengibre"
+    },
+    {
+     "nota": "caramelo",
+     "veces": 3,
+     "sobre": 2.06,
+     "etiqueta": "caramelo"
+    }
+   ]
+  },
+  {
+   "marca": "Rasasi",
+   "perfumes": 13,
+   "firma": [
+    {
+     "nota": "ciruela",
+     "veces": 3,
+     "sobre": 2.96,
+     "etiqueta": "ciruela"
+    },
+    {
+     "nota": "frambuesa",
+     "veces": 3,
+     "sobre": 2.72,
+     "etiqueta": "frambuesa"
+    },
+    {
+     "nota": "toronja (pomelo)",
+     "veces": 3,
+     "sobre": 2.72,
+     "etiqueta": "toronja"
+    },
+    {
+     "nota": "notas amaderadas",
+     "veces": 3,
+     "sobre": 2.33,
+     "etiqueta": "notas amaderadas"
+    },
+    {
+     "nota": "flor de azahar del naranjo",
+     "veces": 3,
+     "sobre": 1.92,
+     "etiqueta": "flor de azahar del naranjo"
+    }
+   ]
+  },
+  {
+   "marca": "Al Haramain",
+   "perfumes": 7,
+   "firma": [
+    {
+     "nota": "sandalo",
+     "veces": 4,
+     "sobre": 1.88,
+     "etiqueta": "sándalo"
+    },
+    {
+     "nota": "bergamota",
+     "veces": 5,
+     "sobre": 1.83,
+     "etiqueta": "bergamota"
+    },
+    {
+     "nota": "cedro",
+     "veces": 4,
+     "sobre": 1.79,
+     "etiqueta": "cedro"
+    },
+    {
+     "nota": "rosa",
+     "veces": 3,
+     "sobre": 1.77,
+     "etiqueta": "rosa"
+    },
+    {
+     "nota": "ambar",
+     "veces": 5,
+     "sobre": 1.55,
+     "etiqueta": "ámbar"
+    }
+   ]
+  },
+  {
+   "marca": "Swiss Arabian",
+   "perfumes": 5,
+   "firma": [
+    {
+     "nota": "madera de oud",
+     "veces": 3,
+     "sobre": 5.4,
+     "etiqueta": "madera de oud"
+    },
+    {
+     "nota": "rosa",
+     "veces": 4,
+     "sobre": 3.72,
+     "etiqueta": "rosa"
+    },
+    {
+     "nota": "ambar",
+     "veces": 5,
+     "sobre": 2.44,
+     "etiqueta": "ámbar"
+    },
+    {
+     "nota": "jazmin",
+     "veces": 3,
+     "sobre": 1.7,
+     "etiqueta": "jazmín"
+    }
+   ]
+  }
+ ],
+ "gemelos": [
+  {
+   "a": "Armaf Club de Nuit Untold",
+   "b": "Orientica Amber Rouge",
+   "comunes": 6,
+   "jaccard": 1
+  },
+  {
+   "a": "Afnan Supremacy in Oud",
+   "b": "Lattafa Oud For Glory",
+   "comunes": 6,
+   "jaccard": 0.86
+  },
+  {
+   "a": "Afnan 9PM",
+   "b": "Armaf Odyssey Spectra",
+   "comunes": 9,
+   "jaccard": 0.75
+  },
+  {
+   "a": "Armaf Odyssey Aoud",
+   "b": "Lattafa Oud For Glory",
+   "comunes": 6,
+   "jaccard": 0.75
+  },
+  {
+   "a": "Afnan Supremacy Silver",
+   "b": "Armaf Club de Nuit Intense Man",
+   "comunes": 10,
+   "jaccard": 0.71
+  },
+  {
+   "a": "Afnan Supremacy in Oud",
+   "b": "Armaf Odyssey Aoud",
+   "comunes": 6,
+   "jaccard": 0.67
+  },
+  {
+   "a": "French Avenue Liquid Brun",
+   "b": "Khadlaj Island Vanilla Dunes",
+   "comunes": 7,
+   "jaccard": 0.58
+  },
+  {
+   "a": "Afnan 9AM Dive",
+   "b": "Al Haramain Amber Oud Bleu Edition",
+   "comunes": 8,
+   "jaccard": 0.57
+  },
+  {
+   "a": "Al Haramain Amber Oud Gold Edition",
+   "b": "Al Haramain Amber Oud Aqua Dubai",
+   "comunes": 7,
+   "jaccard": 0.54
+  },
+  {
+   "a": "Afnan 9AM Dive",
+   "b": "Armaf Club de Nuit Iconic",
+   "comunes": 9,
+   "jaccard": 0.5
+  }
+ ],
+ "parecidos": [
+  {
+   "clave": "initio-oud-for-greatness",
+   "nombre": "Initio Parfums Prives Oud for Greatness",
+   "notas": 6,
+   "tienePiramide": true,
+   "fuente": "https://www.fragrantica.es/perfume/Initio-Parfums-Prives/Oud-for-Greatness-53641.html",
+   "candidatos": [
+    {
+     "slug": "lattafa-oud-for-glory",
+     "nombre": "Oud For Glory",
+     "marca": "Lattafa",
+     "notas": 6,
+     "comunes": 6,
+     "jaccard": 1,
+     "notasComunes": [
+      "azafrán",
+      "nuez moscada",
+      "lavanda",
+      "madera de oud",
+      "pachulí",
+      "almizcle"
+     ]
+    },
+    {
+     "slug": "afnan-supremacy-in-oud",
+     "nombre": "Supremacy in Oud",
+     "marca": "Afnan",
+     "notas": 7,
+     "comunes": 6,
+     "jaccard": 0.86,
+     "notasComunes": [
+      "azafrán",
+      "nuez moscada",
+      "lavanda",
+      "madera de oud",
+      "pachulí",
+      "almizcle"
+     ]
+    },
+    {
+     "slug": "armaf-odyssey-aoud",
+     "nombre": "Odyssey Aoud",
+     "marca": "Armaf",
+     "notas": 8,
+     "comunes": 6,
+     "jaccard": 0.75,
+     "notasComunes": [
+      "azafrán",
+      "nuez moscada",
+      "lavanda",
+      "madera de oud",
+      "almizcle",
+      "pachulí"
+     ]
+    }
+   ]
+  },
+  {
+   "clave": "tom-ford-tuscan-leather",
+   "nombre": "Tom Ford Tuscan Leather",
+   "notas": 9,
+   "tienePiramide": true,
+   "fuente": "https://www.fragrantica.es/perfume/Tom-Ford/Tuscan-Leather-1849.html",
+   "candidatos": [
+    {
+     "slug": "rasasi-la-yuqawam",
+     "nombre": "La Yuqawam",
+     "marca": "Rasasi",
+     "notas": 10,
+     "comunes": 9,
+     "jaccard": 0.9,
+     "notasComunes": [
+      "frambuesa",
+      "azafrán",
+      "tomillo",
+      "incienso de olíbano",
+      "jazmín",
+      "cuero",
+      "gamuza",
+      "notas amaderadas",
+      "ámbar"
+     ]
+    },
+    {
+     "slug": "swiss-arabian-shaghaf-oud-aswad",
+     "nombre": "Shaghaf Oud Aswad",
+     "marca": "Swiss Arabian",
+     "notas": 14,
+     "comunes": 6,
+     "jaccard": 0.35,
+     "notasComunes": [
+      "azafrán",
+      "notas amaderadas",
+      "tomillo",
+      "jazmín",
+      "cuero",
+      "ámbar"
+     ]
+    },
+    {
+     "slug": "arabian-oud-al-qiam-gold",
+     "nombre": "Al Qiam Gold",
+     "marca": "Lattafa",
+     "notas": 9,
+     "comunes": 4,
+     "jaccard": 0.29,
+     "notasComunes": [
+      "frambuesa",
+      "azafrán",
+      "cuero",
+      "ámbar"
+     ]
+    }
+   ]
+  },
+  {
+   "clave": "pdm-althair",
+   "nombre": "Parfums de Marly Althair",
+   "notas": 12,
+   "tienePiramide": true,
+   "fuente": "https://www.fragrantica.es/perfume/Parfums-de-Marly/Althair-84109.html",
+   "candidatos": [
+    {
+     "slug": "french-avenue-liquid-brun",
+     "nombre": "Liquid Brun",
+     "marca": "French Avenue",
+     "notas": 10,
+     "comunes": 10,
+     "jaccard": 0.83,
+     "notasComunes": [
+      "canela",
+      "flor de azahar del naranjo",
+      "cardamomo",
+      "bergamota",
+      "vainilla bourbon",
+      "elemí",
+      "praliné",
+      "ambroxan",
+      "almizcle",
+      "madera de gaiac"
+     ]
+    },
+    {
+     "slug": "khadlaj-island-vanilla-dunes",
+     "nombre": "Island Vanilla Dunes",
+     "marca": "Khadlaj",
+     "notas": 9,
+     "comunes": 7,
+     "jaccard": 0.5,
+     "notasComunes": [
+      "canela",
+      "cardamomo",
+      "bergamota",
+      "flor de azahar del naranjo",
+      "madera de gaiac",
+      "praliné",
+      "almizcle"
+     ]
+    },
+    {
+     "slug": "lattafa-khamrah-qahwa",
+     "nombre": "Khamrah Qahwa",
+     "marca": "Lattafa",
+     "notas": 11,
+     "comunes": 5,
+     "jaccard": 0.28,
+     "notasComunes": [
+      "canela",
+      "cardamomo",
+      "praliné",
+      "haba tonka",
+      "almizcle"
+     ]
+    }
+   ]
+  },
+  {
+   "clave": "chanel-bleu-de-chanel",
+   "nombre": "Chanel Bleu de Chanel",
+   "notas": 15,
+   "tienePiramide": true,
+   "fuente": "https://www.fragrantica.es/perfume/Chanel/Bleu-de-Chanel-9099.html",
+   "candidatos": [
+    {
+     "slug": "armaf-club-de-nuit-iconic",
+     "nombre": "Club de Nuit Iconic",
+     "marca": "Armaf",
+     "notas": 16,
+     "comunes": 12,
+     "jaccard": 0.63,
+     "notasComunes": [
+      "toronja",
+      "limón",
+      "menta",
+      "pimienta rosa",
+      "jengibre",
+      "jazmín",
+      "nuez moscada",
+      "incienso",
+      "sándalo",
+      "cedro",
+      "pachulí",
+      "ládano"
+     ]
+    },
+    {
+     "slug": "al-haramain-amber-oud-bleu-edition",
+     "nombre": "Amber Oud Bleu Edition",
+     "marca": "Al Haramain",
+     "notas": 11,
+     "comunes": 10,
+     "jaccard": 0.63,
+     "notasComunes": [
+      "toronja",
+      "limón",
+      "menta",
+      "pimienta rosa",
+      "jengibre",
+      "vetiver",
+      "jazmín",
+      "sándalo",
+      "cedro",
+      "pachulí"
+     ]
+    },
+    {
+     "slug": "afnan-9am-dive",
+     "nombre": "9AM Dive",
+     "marca": "Afnan",
+     "notas": 11,
+     "comunes": 9,
+     "jaccard": 0.53,
+     "notasComunes": [
+      "limón",
+      "menta",
+      "pimienta rosa",
+      "cedro",
+      "incienso",
+      "jengibre",
+      "sándalo",
+      "pachulí",
+      "jazmín"
+     ]
+    }
+   ]
+  },
+  {
+   "clave": "mfk-baccarat-rouge-540",
+   "nombre": "Maison Francis Kurkdjian Baccarat Rouge 540",
+   "notas": 10,
+   "tienePiramide": true,
+   "fuente": "https://www.fragrantica.es/perfume/Maison-Francis-Kurkdjian/Baccarat-Rouge-540-33519.html",
+   "candidatos": [
+    {
+     "slug": "armaf-club-de-nuit-untold",
+     "nombre": "Club de Nuit Untold",
+     "marca": "Armaf",
+     "notas": 6,
+     "comunes": 6,
+     "jaccard": 0.6,
+     "notasComunes": [
+      "azafrán",
+      "jazmín",
+      "amberwood",
+      "ámbar gris",
+      "resina de abeto",
+      "cedro"
+     ]
+    },
+    {
+     "slug": "orientica-amber-rouge",
+     "nombre": "Amber Rouge",
+     "marca": "Orientica",
+     "notas": 6,
+     "comunes": 6,
+     "jaccard": 0.6,
+     "notasComunes": [
+      "azafrán",
+      "jazmín",
+      "amberwood",
+      "ámbar gris",
+      "cedro",
+      "resina de abeto"
+     ]
+    },
+    {
+     "slug": "lattafa-opulent-musk",
+     "nombre": "Opulent Musk",
+     "marca": "Lattafa",
+     "notas": 9,
+     "comunes": 4,
+     "jaccard": 0.27,
+     "notasComunes": [
+      "azafrán",
+      "jazmín",
+      "cedro",
+      "resina de abeto"
+     ]
+    }
+   ]
+  },
+  {
+   "clave": "creed-aventus",
+   "nombre": "Creed Aventus",
+   "notas": 13,
+   "tienePiramide": true,
+   "fuente": "https://www.fragrantica.es/perfume/Creed/Aventus-9828.html",
+   "candidatos": [
+    {
+     "slug": "afnan-supremacy-silver",
+     "nombre": "Supremacy Silver",
+     "marca": "Afnan",
+     "notas": 12,
+     "comunes": 9,
+     "jaccard": 0.56,
+     "notasComunes": [
+      "piña",
+      "bergamota",
+      "grosellas negras",
+      "manzana",
+      "abedul",
+      "pachulí",
+      "jazmín de marruecos",
+      "almizcle",
+      "musgo de roble"
+     ]
+    },
+    {
+     "slug": "armaf-club-de-nuit-intense-man",
+     "nombre": "Club de Nuit Intense Man",
+     "marca": "Armaf",
+     "notas": 12,
+     "comunes": 8,
+     "jaccard": 0.47,
+     "notasComunes": [
+      "limón",
+      "piña",
+      "bergamota",
+      "grosellas negras",
+      "manzana",
+      "abedul",
+      "almizcle",
+      "pachulí"
+     ]
+    },
+    {
+     "slug": "afnan-supremacy-not-only",
+     "nombre": "Supremacy Not Only Intense",
+     "marca": "Afnan",
+     "notas": 9,
+     "comunes": 6,
+     "jaccard": 0.38,
+     "notasComunes": [
+      "grosellas negras",
+      "bergamota",
+      "manzana",
+      "musgo de roble",
+      "pachulí",
+      "almizcle"
+     ]
+    }
+   ]
+  },
+  {
+   "clave": "jpg-le-male",
+   "nombre": "Jean Paul Gaultier Le Male",
+   "notas": 13,
+   "tienePiramide": true,
+   "fuente": "https://www.fragrantica.es/perfume/Jean-Paul-Gaultier/Le-Male-430.html",
+   "candidatos": [
+    {
+     "slug": "armaf-odyssey-spectra",
+     "nombre": "Odyssey Spectra",
+     "marca": "Armaf",
+     "notas": 11,
+     "comunes": 7,
+     "jaccard": 0.41,
+     "notasComunes": [
+      "canela",
+      "bergamota",
+      "lavanda",
+      "flor de azahar del naranjo",
+      "vainilla",
+      "ámbar",
+      "haba tonka"
+     ]
+    },
+    {
+     "slug": "khadlaj-island-vanilla-dunes",
+     "nombre": "Island Vanilla Dunes",
+     "marca": "Khadlaj",
+     "notas": 9,
+     "comunes": 6,
+     "jaccard": 0.38,
+     "notasComunes": [
+      "vainilla",
+      "canela",
+      "cardamomo",
+      "bergamota",
+      "flor de azahar del naranjo",
+      "ámbar"
+     ]
+    },
+    {
+     "slug": "afnan-9pm",
+     "nombre": "9PM",
+     "marca": "Afnan",
+     "notas": 10,
+     "comunes": 6,
+     "jaccard": 0.35,
+     "notasComunes": [
+      "canela",
+      "bergamota",
+      "flor de azahar del naranjo",
+      "vainilla",
+      "haba tonka",
+      "ámbar"
+     ]
+    }
+   ]
+  },
+  {
+   "clave": "mfk-oud-satin-mood",
+   "nombre": "Maison Francis Kurkdjian Oud Satin Mood",
+   "notas": 10,
+   "tienePiramide": true,
+   "fuente": "https://www.fragrantica.es/perfume/Maison-Francis-Kurkdjian/Oud-Satin-Mood-30352.html",
+   "candidatos": [
+    {
+     "slug": "lattafa-badee-al-oud-amethyst",
+     "nombre": "Bade'e Al Oud Amethyst",
+     "marca": "Lattafa",
+     "notas": 8,
+     "comunes": 5,
+     "jaccard": 0.38,
+     "notasComunes": [
+      "rosa turca",
+      "rosa de bulgaria",
+      "madera de oud",
+      "ámbar",
+      "vainilla"
+     ]
+    },
+    {
+     "slug": "afnan-rare-carbon",
+     "nombre": "Rare Carbon",
+     "marca": "Afnan",
+     "notas": 11,
+     "comunes": 4,
+     "jaccard": 0.24,
+     "notasComunes": [
+      "violeta",
+      "madera de oud",
+      "cedro",
+      "ámbar"
+     ]
+    },
+    {
+     "slug": "lattafa-his-confession",
+     "nombre": "His Confession",
+     "marca": "Lattafa",
+     "notas": 13,
+     "comunes": 4,
+     "jaccard": 0.21,
+     "notasComunes": [
+      "benjuí",
+      "vainilla",
+      "ámbar",
+      "cedro"
+     ]
+    }
+   ]
+  },
+  {
+   "clave": "ch-good-girl",
+   "nombre": "Carolina Herrera Good Girl",
+   "notas": 20,
+   "tienePiramide": true,
+   "fuente": "https://www.fragrantica.es/perfume/Carolina-Herrera/Good-Girl-39681.html",
+   "candidatos": [
+    {
+     "slug": "french-avenue-ravine-ginger",
+     "nombre": "Ravine Ginger",
+     "marca": "French Avenue",
+     "notas": 13,
+     "comunes": 8,
+     "jaccard": 0.32,
+     "notasComunes": [
+      "bergamota",
+      "limón",
+      "flor de azahar del naranjo",
+      "vainilla",
+      "almizcle",
+      "ámbar",
+      "sándalo",
+      "pachulí"
+     ]
+    },
+    {
+     "slug": "khadlaj-island-vanilla-dunes",
+     "nombre": "Island Vanilla Dunes",
+     "marca": "Khadlaj",
+     "notas": 9,
+     "comunes": 7,
+     "jaccard": 0.32,
+     "notasComunes": [
+      "vainilla",
+      "canela",
+      "bergamota",
+      "flor de azahar del naranjo",
+      "praliné",
+      "ámbar",
+      "almizcle"
+     ]
+    },
+    {
+     "slug": "afnan-9pm",
+     "nombre": "9PM",
+     "marca": "Afnan",
+     "notas": 10,
+     "comunes": 7,
+     "jaccard": 0.3,
+     "notasComunes": [
+      "canela",
+      "bergamota",
+      "flor de azahar del naranjo",
+      "vainilla",
+      "haba tonka",
+      "ámbar",
+      "pachulí"
+     ]
+    }
+   ]
+  },
+  {
+   "clave": "shl777-god-of-fire",
+   "nombre": "Stephane Humbert Lucas 777 God of Fire",
+   "notas": 11,
+   "tienePiramide": true,
+   "fuente": "https://www.fragrantica.es/perfume/Stephane-Humbert-Lucas-777/God-of-Fire-72381.html",
+   "candidatos": [
+    {
+     "slug": "ajmal-aristocrat",
+     "nombre": "Aristocrat",
+     "marca": "Ajmal",
+     "notas": 10,
+     "comunes": 5,
+     "jaccard": 0.31,
+     "notasComunes": [
+      "almizcle",
+      "jazmín",
+      "madera de oud",
+      "cedro",
+      "ámbar"
+     ]
+    },
+    {
+     "slug": "lattafa-ajwad",
+     "nombre": "Ajwad",
+     "marca": "Lattafa",
+     "notas": 7,
+     "comunes": 4,
+     "jaccard": 0.29,
+     "notasComunes": [
+      "jazmín",
+      "almizcle",
+      "ámbar",
+      "cedro"
+     ]
+    },
+    {
+     "slug": "french-avenue-vulcan-feu",
+     "nombre": "Vulcan Feu",
+     "marca": "French Avenue",
+     "notas": 12,
+     "comunes": 5,
+     "jaccard": 0.28,
+     "notasComunes": [
+      "mango",
+      "limón",
+      "jengibre",
+      "jazmín",
+      "cedro"
+     ]
+    }
+   ]
+  },
+  {
+   "clave": "lancome-la-vie-est-belle",
+   "nombre": "Lancome La Vie Est Belle",
+   "notas": 9,
+   "tienePiramide": true,
+   "fuente": "https://www.fragrantica.es/perfume/Lancome/La-Vie-Est-Belle-14982.html",
+   "candidatos": [
+    {
+     "slug": "lattafa-fakhar",
+     "nombre": "Fakhar",
+     "marca": "Lattafa",
+     "notas": 12,
+     "comunes": 5,
+     "jaccard": 0.31,
+     "notasComunes": [
+      "pera",
+      "grosellas negras",
+      "flor de azahar del naranjo",
+      "vainilla",
+      "pachulí"
+     ]
+    },
+    {
+     "slug": "lattafa-yara-elixir",
+     "nombre": "Yara Elixir",
+     "marca": "Lattafa",
+     "notas": 8,
+     "comunes": 4,
+     "jaccard": 0.31,
+     "notasComunes": [
+      "grosellas negras",
+      "jazmín",
+      "flor de azahar del naranjo",
+      "vainilla"
+     ]
+    },
+    {
+     "slug": "afnan-9pm",
+     "nombre": "9PM",
+     "marca": "Afnan",
+     "notas": 10,
+     "comunes": 4,
+     "jaccard": 0.27,
+     "notasComunes": [
+      "flor de azahar del naranjo",
+      "vainilla",
+      "haba tonka",
+      "pachulí"
+     ]
+    }
+   ]
+  },
+  {
+   "clave": "tom-ford-oud-wood",
+   "nombre": "Tom Ford Oud Wood",
+   "notas": 9,
+   "tienePiramide": false,
+   "fuente": "https://www.fragrantica.es/perfume/Tom-Ford/Oud-Wood-1826.html",
+   "candidatos": [
+    {
+     "slug": "armaf-odyssey-homme",
+     "nombre": "Odyssey Homme",
+     "marca": "Armaf",
+     "notas": 9,
+     "comunes": 4,
+     "jaccard": 0.29,
+     "notasComunes": [
+      "cardamomo",
+      "vainilla",
+      "sándalo",
+      "ámbar"
+     ]
+    },
+    {
+     "slug": "french-avenue-liquid-brun-limited-edition",
+     "nombre": "Liquid Brun Limited Edition",
+     "marca": "French Avenue",
+     "notas": 10,
+     "comunes": 4,
+     "jaccard": 0.27,
+     "notasComunes": [
+      "cardamomo",
+      "vainilla",
+      "haba tonka",
+      "ámbar"
+     ]
+    },
+    {
+     "slug": "afnan-rare-carbon",
+     "nombre": "Rare Carbon",
+     "marca": "Afnan",
+     "notas": 11,
+     "comunes": 4,
+     "jaccard": 0.25,
+     "notasComunes": [
+      "madera de oud",
+      "vetiver",
+      "sándalo",
+      "ámbar"
+     ]
+    }
+   ]
+  },
+  {
+   "clave": "dior-sauvage",
+   "nombre": "Dior Sauvage",
+   "notas": 12,
+   "tienePiramide": true,
+   "fuente": "https://www.fragrantica.es/perfume/Dior/Sauvage-31861.html",
+   "candidatos": [
+    {
+     "slug": "ajmal-evoke-gold-edition",
+     "nombre": "Evoke Gold Edition",
+     "marca": "Ajmal",
+     "notas": 7,
+     "comunes": 4,
+     "jaccard": 0.27,
+     "notasComunes": [
+      "pimienta",
+      "geranio",
+      "cedro",
+      "pachulí"
+     ]
+    },
+    {
+     "slug": "al-haramain-oudh-36",
+     "nombre": "Oudh 36",
+     "marca": "Al Haramain",
+     "notas": 8,
+     "comunes": 4,
+     "jaccard": 0.25,
+     "notasComunes": [
+      "ládano",
+      "geranio",
+      "pachulí",
+      "cedro"
+     ]
+    },
+    {
+     "slug": "french-avenue-ravine-ice",
+     "nombre": "Ravine Ice",
+     "marca": "French Avenue",
+     "notas": 8,
+     "comunes": 4,
+     "jaccard": 0.25,
+     "notasComunes": [
+      "geranio",
+      "lavanda",
+      "ambroxan",
+      "cedro"
+     ]
+    }
+   ]
+  },
+  {
+   "clave": "dior-sauvage-elixir",
+   "nombre": "Dior Sauvage Elixir",
+   "notas": 10,
+   "tienePiramide": true,
+   "fuente": "https://www.fragrantica.es/perfume/Dior/Sauvage-Elixir-68415.html",
+   "candidatos": [
+    {
+     "slug": "ajmal-amber-wood",
+     "nombre": "Amber Wood",
+     "marca": "Ajmal",
+     "notas": 9,
+     "comunes": 4,
+     "jaccard": 0.27,
+     "notasComunes": [
+      "cardamomo",
+      "lavanda",
+      "ámbar",
+      "pachulí"
+     ]
+    },
+    {
+     "slug": "khadlaj-shiyaaka-shadow",
+     "nombre": "Shiyaaka Shadow",
+     "marca": "Khadlaj",
+     "notas": 9,
+     "comunes": 4,
+     "jaccard": 0.27,
+     "notasComunes": [
+      "toronja",
+      "lavanda",
+      "ámbar",
+      "pachulí"
+     ]
+    },
+    {
+     "slug": "afnan-9pm-elixir",
+     "nombre": "9PM Elixir",
+     "marca": "Afnan",
+     "notas": 10,
+     "comunes": 4,
+     "jaccard": 0.25,
+     "notasComunes": [
+      "cardamomo",
+      "nuez moscada",
+      "lavanda",
+      "pachulí"
+     ]
+    }
+   ]
+  },
+  {
+   "clave": "le-labo-santal-33",
+   "nombre": "Le Labo Santal 33",
+   "notas": 8,
+   "tienePiramide": false,
+   "fuente": "https://www.fragrantica.es/perfume/Le-Labo/Santal-33-12201.html",
+   "candidatos": [
+    {
+     "slug": "afnan-rare-carbon",
+     "nombre": "Rare Carbon",
+     "marca": "Afnan",
+     "notas": 11,
+     "comunes": 4,
+     "jaccard": 0.27,
+     "notasComunes": [
+      "cuero",
+      "violeta",
+      "sándalo",
+      "ámbar"
+     ]
+    },
+    {
+     "slug": "armaf-tres-nuit",
+     "nombre": "Tres Nuit",
+     "marca": "Armaf",
+     "notas": 8,
+     "comunes": 3,
+     "jaccard": 0.23,
+     "notasComunes": [
+      "iris",
+      "violeta",
+      "sándalo"
+     ]
+    },
+    {
+     "slug": "armaf-odyssey-homme",
+     "nombre": "Odyssey Homme",
+     "marca": "Armaf",
+     "notas": 9,
+     "comunes": 3,
+     "jaccard": 0.21,
+     "notasComunes": [
+      "cardamomo",
+      "sándalo",
+      "ámbar"
+     ]
+    }
+   ]
+  },
+  {
+   "clave": "ysl-black-opium",
+   "nombre": "Yves Saint Laurent Black Opium",
+   "notas": 11,
+   "tienePiramide": true,
+   "fuente": "https://www.fragrantica.es/perfume/Yves-Saint-Laurent/Black-Opium-25324.html",
+   "candidatos": [
+    {
+     "slug": "french-avenue-spectre-ghost",
+     "nombre": "Spectre Ghost",
+     "marca": "French Avenue",
+     "notas": 9,
+     "comunes": 4,
+     "jaccard": 0.25,
+     "notasComunes": [
+      "pimienta rosa",
+      "vainilla",
+      "cedro",
+      "pachulí"
+     ]
+    },
+    {
+     "slug": "khadlaj-shiyaaka-shadow",
+     "nombre": "Shiyaaka Shadow",
+     "marca": "Khadlaj",
+     "notas": 9,
+     "comunes": 4,
+     "jaccard": 0.25,
+     "notasComunes": [
+      "pimienta rosa",
+      "cedro",
+      "madera de cachemira",
+      "pachulí"
+     ]
+    },
+    {
+     "slug": "lattafa-asad-elixir",
+     "nombre": "Asad Elixir",
+     "marca": "Lattafa",
+     "notas": 10,
+     "comunes": 4,
+     "jaccard": 0.24,
+     "notasComunes": [
+      "pimienta rosa",
+      "vainilla",
+      "cedro",
+      "pachulí"
+     ]
+    }
+   ]
+  }
+ ],
+ "precios": {
+  "perfumes": 152,
+  "mediaPor100ml": 44.72,
+  "medianaPor100ml": 39.43,
+  "minimoPor100ml": 24.99,
+  "maximoPor100ml": 128.54,
+  "porMarca": [
+   {
+    "marca": "Armaf",
+    "perfumes": 20,
+    "mediaPor100ml": 34.94,
+    "minimo": 29.99,
+    "maximo": 39.99
+   },
+   {
+    "marca": "Lattafa",
+    "perfumes": 41,
+    "mediaPor100ml": 36.33,
+    "minimo": 24.99,
+    "maximo": 69.99
+   },
+   {
+    "marca": "Afnan",
+    "perfumes": 14,
+    "mediaPor100ml": 39.12,
+    "minimo": 27.9,
+    "maximo": 44.99
+   },
+   {
+    "marca": "Khadlaj",
+    "perfumes": 15,
+    "mediaPor100ml": 43.56,
+    "minimo": 32.99,
+    "maximo": 44.99
+   },
+   {
+    "marca": "French Avenue",
+    "perfumes": 17,
+    "mediaPor100ml": 44.96,
+    "minimo": 35.99,
+    "maximo": 57.99
+   },
+   {
+    "marca": "Rasasi",
+    "perfumes": 13,
+    "mediaPor100ml": 49.22,
+    "minimo": 39.99,
+    "maximo": 54.99
+   },
+   {
+    "marca": "Al Haramain",
+    "perfumes": 7,
+    "mediaPor100ml": 63.01,
+    "minimo": 37.9,
+    "maximo": 64.99
+   },
+   {
+    "marca": "Ajmal",
+    "perfumes": 6,
+    "mediaPor100ml": 69.71,
+    "minimo": 44.99,
+    "maximo": 49.99
+   },
+   {
+    "marca": "Swiss Arabian",
+    "perfumes": 5,
+    "mediaPor100ml": 83.65,
+    "minimo": 44.99,
+    "maximo": 54.99
+   }
+  ],
+  "concentracion": [
+   {
+    "clave": "edp",
+    "veces": 117
+   },
+   {
+    "clave": "extrait",
+    "veces": 19
+   },
+   {
+    "clave": "sin verificar",
+    "veces": 16
+   }
+  ],
+  "genero": [
+   {
+    "clave": "unisex",
+    "veces": 66
+   },
+   {
+    "clave": "hombre",
+    "veces": 54
+   },
+   {
+    "clave": "mujer",
+    "veces": 32
+   }
+  ],
+  "formato": [
+   {
+    "clave": "100 ml",
+    "veces": 115
+   },
+   {
+    "clave": "75 ml",
+    "veces": 9
+   },
+   {
+    "clave": "105 ml",
+    "veces": 8
+   },
+   {
+    "clave": "50 ml",
+    "veces": 7
+   },
+   {
+    "clave": "80 ml",
+    "veces": 6
+   },
+   {
+    "clave": "60 ml",
+    "veces": 3
+   },
+   {
+    "clave": "90 ml",
+    "veces": 2
+   },
+   {
+    "clave": "150 ml",
+    "veces": 1
+   },
+   {
+    "clave": "35 ml",
+    "veces": 1
+   }
+  ]
+ },
+ "valoraciones": {
+  "perfumes": 148,
+  "votos": 411648,
+  "media": 4.1,
+  "mediaPonderada": 4.16,
+  "minVotosParaRanking": 1000,
+  "masVotados": [
+   {
+    "slug": "lattafa-khamrah",
+    "nombre": "Khamrah",
+    "marca": "Lattafa",
+    "valor": 4.22,
+    "votos": 30034
+   },
+   {
+    "slug": "armaf-club-de-nuit-intense-man",
+    "nombre": "Club de Nuit Intense Man",
+    "marca": "Armaf",
+    "valor": 4.07,
+    "votos": 28911
+   },
+   {
+    "slug": "afnan-9pm",
+    "nombre": "9PM",
+    "marca": "Afnan",
+    "valor": 4.33,
+    "votos": 18171
+   },
+   {
+    "slug": "lattafa-khamrah-qahwa",
+    "nombre": "Khamrah Qahwa",
+    "marca": "Lattafa",
+    "valor": 4.34,
+    "votos": 15769
+   },
+   {
+    "slug": "lattafa-asad",
+    "nombre": "Asad",
+    "marca": "Lattafa",
+    "valor": 4.04,
+    "votos": 14184
+   }
+  ],
+  "mejorValorados": [
+   {
+    "slug": "french-avenue-liquid-brun-limited-edition",
+    "nombre": "Liquid Brun Limited Edition",
+    "marca": "French Avenue",
+    "valor": 4.49,
+    "votos": 1186
+   },
+   {
+    "slug": "french-avenue-royal-blend",
+    "nombre": "Royal Blend",
+    "marca": "French Avenue",
+    "valor": 4.45,
+    "votos": 1160
+   },
+   {
+    "slug": "khadlaj-island-vanilla-dunes",
+    "nombre": "Island Vanilla Dunes",
+    "marca": "Khadlaj",
+    "valor": 4.45,
+    "votos": 1072
+   },
+   {
+    "slug": "french-avenue-liquid-brun",
+    "nombre": "Liquid Brun",
+    "marca": "French Avenue",
+    "valor": 4.43,
+    "votos": 14058
+   },
+   {
+    "slug": "lattafa-asad-elixir",
+    "nombre": "Asad Elixir",
+    "marca": "Lattafa",
+    "valor": 4.43,
+    "votos": 2404
+   }
+  ]
+ },
+ "sinPiramideEnFragrantica": [
+  "Ajmal Sacrifice for Him",
+  "Ajmal Wisal",
+  "Arabian Oud Resala",
+  "Khadlaj Cloud Candy",
+  "Lattafa Ameer Al Oud",
+  "Lattafa Raghba",
+  "Lattafa Velvet Oud",
+  "Fragrance World Creme of Clouds"
+ ]
+}
