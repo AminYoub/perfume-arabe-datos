@@ -1,6 +1,6 @@
 {
  "_licencia": "CC BY 4.0 — Private Riche (privateriche.com). Notas y acordes leídos en fragrantica.es ficha a ficha; la URL de cada una va en fragrantica_url.",
- "_generado": "2026-09-07",
+ "_generado": "2026-09-18",
  "perfumes": [
   {
    "slug": "afnan-9am",
@@ -525,6 +525,51 @@
    "ficha": "https://privateriche.com/perfume-arabe/afnan-rare-tiffany"
   },
   {
+   "slug": "afnan-supremacy-in-oud",
+   "marca": "Afnan",
+   "nombre": "Supremacy in Oud",
+   "genero": "unisex",
+   "concentracion": "extrait",
+   "volumen_ml": 100,
+   "fragrantica_url": "https://www.fragrantica.es/perfume/Afnan/Supremacy-in-Oud-68283.html",
+   "tiene_piramide": true,
+   "salida": [
+    "azafrán",
+    "nuez moscada",
+    "lavanda"
+   ],
+   "corazon": [
+    "madera de oud",
+    "notas dulces"
+   ],
+   "fondo": [
+    "pachulí",
+    "almizcle"
+   ],
+   "notas": [
+    "azafrán",
+    "nuez moscada",
+    "lavanda",
+    "madera de oud",
+    "notas dulces",
+    "pachulí",
+    "almizcle"
+   ],
+   "acordes": [
+    "oud",
+    "cálido especiado",
+    "fresco especiado",
+    "dulce",
+    "pachulí",
+    "metálico",
+    "lavanda",
+    "almizclado",
+    "cuero",
+    "amaderado"
+   ],
+   "ficha": "https://privateriche.com/perfume-arabe/afnan-supremacy-in-oud"
+  },
+  {
    "slug": "afnan-supremacy-not-only",
    "marca": "Afnan",
    "nombre": "Supremacy Not Only Intense",
@@ -629,51 +674,6 @@
    "ficha": "https://privateriche.com/perfume-arabe/afnan-supremacy-silver"
   },
   {
-   "slug": "afnan-supremacy-in-oud",
-   "marca": "Afnan",
-   "nombre": "Supremacy in Oud",
-   "genero": "unisex",
-   "concentracion": "extrait",
-   "volumen_ml": 100,
-   "fragrantica_url": "https://www.fragrantica.es/perfume/Afnan/Supremacy-in-Oud-68283.html",
-   "tiene_piramide": true,
-   "salida": [
-    "azafrán",
-    "nuez moscada",
-    "lavanda"
-   ],
-   "corazon": [
-    "madera de oud",
-    "notas dulces"
-   ],
-   "fondo": [
-    "pachulí",
-    "almizcle"
-   ],
-   "notas": [
-    "azafrán",
-    "nuez moscada",
-    "lavanda",
-    "madera de oud",
-    "notas dulces",
-    "pachulí",
-    "almizcle"
-   ],
-   "acordes": [
-    "oud",
-    "cálido especiado",
-    "fresco especiado",
-    "dulce",
-    "pachulí",
-    "metálico",
-    "lavanda",
-    "almizclado",
-    "cuero",
-    "amaderado"
-   ],
-   "ficha": "https://privateriche.com/perfume-arabe/afnan-supremacy-in-oud"
-  },
-  {
    "slug": "afnan-turathi-blue",
    "marca": "Afnan",
    "nombre": "Turathi Blue",
@@ -762,6 +762,46 @@
     "afrutados"
    ],
    "ficha": "https://privateriche.com/perfume-arabe/ajmal-amber-wood"
+  },
+  {
+   "slug": "ajmal-ameer-al-oudh-intense",
+   "marca": "Lattafa",
+   "nombre": "Ameer Al Oudh Intense Oud",
+   "genero": "hombre",
+   "concentracion": "edp",
+   "volumen_ml": 60,
+   "fragrantica_url": "https://www.fragrantica.es/perfume/Lattafa-Perfumes/Ameer-Al-Oudh-Intense-Oud-64947.html",
+   "tiene_piramide": true,
+   "salida": [
+    "notas amaderadas",
+    "madera de oud"
+   ],
+   "corazon": [
+    "azúcar",
+    "vainilla"
+   ],
+   "fondo": [
+    "madera de oud",
+    "sándalo",
+    "notas herbales"
+   ],
+   "notas": [
+    "notas amaderadas",
+    "madera de oud",
+    "azúcar",
+    "vainilla",
+    "madera de oud",
+    "sándalo",
+    "notas herbales"
+   ],
+   "acordes": [
+    "amaderado",
+    "avainillado",
+    "dulce",
+    "oud",
+    "atalcado"
+   ],
+   "ficha": "https://privateriche.com/perfume-arabe/ajmal-ameer-al-oudh-intense"
   },
   {
    "slug": "ajmal-aristocrat",
@@ -1335,6 +1375,55 @@
    "ficha": "https://privateriche.com/perfume-arabe/al-haramain-oudh-36"
   },
   {
+   "slug": "arabian-oud-al-qiam-gold",
+   "marca": "Lattafa",
+   "nombre": "Al Qiam Gold",
+   "genero": "hombre",
+   "concentracion": "edp",
+   "volumen_ml": 100,
+   "fragrantica_url": "https://www.fragrantica.es/perfume/Lattafa-Perfumes/Al-Qiam-Gold-82816.html",
+   "tiene_piramide": true,
+   "salida": [
+    "frambuesa",
+    "azafrán"
+   ],
+   "corazon": [
+    "cuero",
+    "pachulí"
+   ],
+   "fondo": [
+    "madera de oud",
+    "ámbar",
+    "benjuí",
+    "madera de gaiac",
+    "vetiver"
+   ],
+   "notas": [
+    "frambuesa",
+    "azafrán",
+    "cuero",
+    "pachulí",
+    "madera de oud",
+    "ámbar",
+    "benjuí",
+    "madera de gaiac",
+    "vetiver"
+   ],
+   "acordes": [
+    "cuero",
+    "oud",
+    "cálido especiado",
+    "ámbar",
+    "amaderado",
+    "animálico",
+    "afrutados",
+    "dulce",
+    "pachulí",
+    "ahumado"
+   ],
+   "ficha": "https://privateriche.com/perfume-arabe/arabian-oud-al-qiam-gold"
+  },
+  {
    "slug": "arabian-oud-kalemat",
    "marca": "Arabian Oud",
    "nombre": "Kalemat",
@@ -1464,61 +1553,59 @@
    "ficha": "https://privateriche.com/perfume-arabe/arabian-oud-resala"
   },
   {
-   "slug": "swiss-arabian-oud-24-hours",
-   "marca": "Ard Al Zaafaran",
-   "nombre": "Oud 24 Hours",
+   "slug": "armaf-bon-bon",
+   "marca": "Armaf",
+   "nombre": "Bon Bon",
    "genero": "unisex",
-   "concentracion": "edp",
+   "concentracion": null,
    "volumen_ml": 100,
-   "fragrantica_url": "https://www.fragrantica.es/perfume/Ard-Al-Zaafaran/Oud-24-Hours-42090.html",
+   "fragrantica_url": "https://www.fragrantica.es/perfume/Armaf/Bon-Bon-123334.html",
    "tiene_piramide": true,
    "salida": [
-    "chocolate oscuro",
-    "mandarina",
-    "bergamota"
-   ],
-   "corazon": [
-    "notas especiadas",
-    "notas afrutadas",
-    "gardenia",
-    "ylang-ylang",
-    "jazmín"
-   ],
-   "fondo": [
-    "pachulí",
-    "madera de oud",
-    "sándalo",
-    "incienso",
-    "ámbar"
-   ],
-   "notas": [
-    "chocolate oscuro",
     "mandarina",
     "bergamota",
-    "notas especiadas",
-    "notas afrutadas",
-    "gardenia",
-    "ylang-ylang",
-    "jazmín",
-    "pachulí",
-    "madera de oud",
-    "sándalo",
-    "incienso",
-    "ámbar"
+    "manzana Granny Smith",
+    "papaya"
+   ],
+   "corazon": [
+    "azucena",
+    "peonía",
+    "Flor de té verde",
+    "Notas marinas",
+    "chabacano"
+   ],
+   "fondo": [
+    "almizcle",
+    "Acorde goloso",
+    "sándalo"
+   ],
+   "notas": [
+    "mandarina",
+    "bergamota",
+    "manzana Granny Smith",
+    "papaya",
+    "azucena",
+    "peonía",
+    "Flor de té verde",
+    "Notas marinas",
+    "chabacano",
+    "almizcle",
+    "Acorde goloso",
+    "sándalo"
    ],
    "acordes": [
-    "cálido especiado",
-    "amaderado",
-    "dulce",
-    "chocolate",
-    "ámbar",
-    "pachulí",
-    "afrutados",
-    "floral blanco",
     "cítrico",
-    "balsámico"
+    "afrutados",
+    "fresco",
+    "verde",
+    "dulce",
+    "florales",
+    "atalcado",
+    "floral blanco",
+    "almizclado",
+    "aromático"
    ],
-   "ficha": "https://privateriche.com/perfume-arabe/swiss-arabian-oud-24-hours"
+   "ficha": "https://privateriche.com/perfume-arabe/armaf-bon-bon"
   },
   {
    "slug": "armaf-club-de-nuit-iconic",
@@ -1953,6 +2040,55 @@
    "ficha": "https://privateriche.com/perfume-arabe/armaf-club-de-nuit-women"
   },
   {
+   "slug": "armaf-island-bliss",
+   "marca": "Armaf",
+   "nombre": "Island Bliss",
+   "genero": "mujer",
+   "concentracion": "edp",
+   "volumen_ml": 100,
+   "fragrantica_url": "https://www.fragrantica.es/perfume/Armaf/Island-Bliss-98718.html",
+   "tiene_piramide": true,
+   "salida": [
+    "bayas silvestres",
+    "notas verdes"
+   ],
+   "corazon": [
+    "coco",
+    "flor de azahar del naranjo",
+    "Lactonas",
+    "nenúfar (lirio de agua)"
+   ],
+   "fondo": [
+    "vainilla",
+    "almizcle",
+    "haba tonka"
+   ],
+   "notas": [
+    "bayas silvestres",
+    "notas verdes",
+    "coco",
+    "flor de azahar del naranjo",
+    "Lactonas",
+    "nenúfar (lirio de agua)",
+    "vainilla",
+    "almizcle",
+    "haba tonka"
+   ],
+   "acordes": [
+    "avainillado",
+    "coco",
+    "dulce",
+    "floral blanco",
+    "almizclado",
+    "afrutados",
+    "florales",
+    "atalcado",
+    "cítrico",
+    "lactónico"
+   ],
+   "ficha": "https://privateriche.com/perfume-arabe/armaf-island-bliss"
+  },
+  {
    "slug": "armaf-odyssey-aoud",
    "marca": "Armaf",
    "nombre": "Odyssey Aoud",
@@ -2266,7 +2402,7 @@
    "slug": "armaf-odyssey-mandarin-sky",
    "marca": "Armaf",
    "nombre": "Odyssey Mandarin Sky",
-   "genero": "unisex",
+   "genero": "hombre",
    "concentracion": "edp",
    "volumen_ml": 100,
    "fragrantica_url": "https://www.fragrantica.es/perfume/Armaf/Odyssey-Mandarin-Sky-83132.html",
@@ -2580,6 +2716,57 @@
     "animálico"
    ],
    "ficha": "https://privateriche.com/perfume-arabe/armaf-tres-nuit"
+  },
+  {
+   "slug": "armaf-yum-yum",
+   "marca": "Armaf",
+   "nombre": "Yum Yum",
+   "genero": "mujer",
+   "concentracion": "edp",
+   "volumen_ml": 100,
+   "fragrantica_url": "https://www.fragrantica.es/perfume/Armaf/Yum-Yum-98717.html",
+   "tiene_piramide": true,
+   "salida": [
+    "bayas silvestres",
+    "cereza",
+    "naranja",
+    "bergamota"
+   ],
+   "corazon": [
+    "rosa",
+    "vainilla",
+    "flores blancas"
+   ],
+   "fondo": [
+    "notas atalcadas",
+    "almizcle",
+    "ámbar"
+   ],
+   "notas": [
+    "bayas silvestres",
+    "cereza",
+    "naranja",
+    "bergamota",
+    "rosa",
+    "vainilla",
+    "flores blancas",
+    "notas atalcadas",
+    "almizcle",
+    "ámbar"
+   ],
+   "acordes": [
+    "afrutados",
+    "atalcado",
+    "acerezado",
+    "amaderado",
+    "rosas",
+    "dulce",
+    "avainillado",
+    "cítrico",
+    "floral blanco",
+    "almizclado"
+   ],
+   "ficha": "https://privateriche.com/perfume-arabe/armaf-yum-yum"
   },
   {
    "slug": "asdaaf-ameer-al-arab",
@@ -4406,55 +4593,6 @@
    "ficha": "https://privateriche.com/perfume-arabe/lattafa-ajwad"
   },
   {
-   "slug": "arabian-oud-al-qiam-gold",
-   "marca": "Lattafa",
-   "nombre": "Al Qiam Gold",
-   "genero": "hombre",
-   "concentracion": "edp",
-   "volumen_ml": 100,
-   "fragrantica_url": "https://www.fragrantica.es/perfume/Lattafa-Perfumes/Al-Qiam-Gold-82816.html",
-   "tiene_piramide": true,
-   "salida": [
-    "frambuesa",
-    "azafrán"
-   ],
-   "corazon": [
-    "cuero",
-    "pachulí"
-   ],
-   "fondo": [
-    "madera de oud",
-    "ámbar",
-    "benjuí",
-    "madera de gaiac",
-    "vetiver"
-   ],
-   "notas": [
-    "frambuesa",
-    "azafrán",
-    "cuero",
-    "pachulí",
-    "madera de oud",
-    "ámbar",
-    "benjuí",
-    "madera de gaiac",
-    "vetiver"
-   ],
-   "acordes": [
-    "cuero",
-    "oud",
-    "cálido especiado",
-    "ámbar",
-    "amaderado",
-    "animálico",
-    "afrutados",
-    "dulce",
-    "pachulí",
-    "ahumado"
-   ],
-   "ficha": "https://privateriche.com/perfume-arabe/arabian-oud-al-qiam-gold"
-  },
-  {
    "slug": "lattafa-ameer-al-oud",
    "marca": "Lattafa",
    "nombre": "Ameer Al Oud",
@@ -4483,46 +4621,6 @@
     "balsámico"
    ],
    "ficha": "https://privateriche.com/perfume-arabe/lattafa-ameer-al-oud"
-  },
-  {
-   "slug": "ajmal-ameer-al-oudh-intense",
-   "marca": "Lattafa",
-   "nombre": "Ameer Al Oudh Intense Oud",
-   "genero": "hombre",
-   "concentracion": "edp",
-   "volumen_ml": 60,
-   "fragrantica_url": "https://www.fragrantica.es/perfume/Lattafa-Perfumes/Ameer-Al-Oudh-Intense-Oud-64947.html",
-   "tiene_piramide": true,
-   "salida": [
-    "notas amaderadas",
-    "madera de oud"
-   ],
-   "corazon": [
-    "azúcar",
-    "vainilla"
-   ],
-   "fondo": [
-    "madera de oud",
-    "sándalo",
-    "notas herbales"
-   ],
-   "notas": [
-    "notas amaderadas",
-    "madera de oud",
-    "azúcar",
-    "vainilla",
-    "madera de oud",
-    "sándalo",
-    "notas herbales"
-   ],
-   "acordes": [
-    "amaderado",
-    "avainillado",
-    "dulce",
-    "oud",
-    "atalcado"
-   ],
-   "ficha": "https://privateriche.com/perfume-arabe/ajmal-ameer-al-oudh-intense"
   },
   {
    "slug": "lattafa-ana-abiyedh-rouge",
@@ -4615,6 +4713,98 @@
     "atalcado"
    ],
    "ficha": "https://privateriche.com/perfume-arabe/lattafa-ansaam-gold"
+  },
+  {
+   "slug": "lattafa-art-of-arabia-i",
+   "marca": "Lattafa",
+   "nombre": "Art of Arabia I",
+   "genero": "hombre",
+   "concentracion": "edp",
+   "volumen_ml": 100,
+   "fragrantica_url": "https://www.fragrantica.es/perfume/Lattafa-Perfumes/Art-of-Arabia-I-92423.html",
+   "tiene_piramide": true,
+   "salida": [
+    "bergamota",
+    "menta"
+   ],
+   "corazon": [
+    "té negro",
+    "jengibre",
+    "lavanda"
+   ],
+   "fondo": [
+    "ambroxan",
+    "Incienso",
+    "canela"
+   ],
+   "notas": [
+    "bergamota",
+    "menta",
+    "té negro",
+    "jengibre",
+    "lavanda",
+    "ambroxan",
+    "Incienso",
+    "canela"
+   ],
+   "acordes": [
+    "fresco especiado",
+    "verde",
+    "cítrico",
+    "aromático",
+    "fresco",
+    "ámbar"
+   ],
+   "ficha": "https://privateriche.com/perfume-arabe/lattafa-art-of-arabia-i"
+  },
+  {
+   "slug": "lattafa-art-of-universe",
+   "marca": "Lattafa",
+   "nombre": "Art of Universe",
+   "genero": "unisex",
+   "concentracion": "edp",
+   "volumen_ml": 100,
+   "fragrantica_url": "https://www.fragrantica.es/perfume/Lattafa-Perfumes/Art-Of-Universe-101314.html",
+   "tiene_piramide": true,
+   "salida": [
+    "mandarina",
+    "jengibre",
+    "bergamota",
+    "menta"
+   ],
+   "corazon": [
+    "pera",
+    "flor de azahar del naranjo"
+   ],
+   "fondo": [
+    "almizcle",
+    "ámbar",
+    "cedro"
+   ],
+   "notas": [
+    "mandarina",
+    "jengibre",
+    "bergamota",
+    "menta",
+    "pera",
+    "flor de azahar del naranjo",
+    "almizcle",
+    "ámbar",
+    "cedro"
+   ],
+   "acordes": [
+    "cítrico",
+    "afrutados",
+    "fresco especiado",
+    "dulce",
+    "almizclado",
+    "verde",
+    "fresco",
+    "floral blanco",
+    "atalcado",
+    "aromático"
+   ],
+   "ficha": "https://privateriche.com/perfume-arabe/lattafa-art-of-universe"
   },
   {
    "slug": "lattafa-asad",
@@ -4907,6 +5097,47 @@
    "ficha": "https://privateriche.com/perfume-arabe/lattafa-badee-al-oud-honor-glory"
   },
   {
+   "slug": "lattafa-badee-al-oud-noble-blush",
+   "marca": "Lattafa",
+   "nombre": "Bade'e Al Oud Noble Blush",
+   "genero": "mujer",
+   "concentracion": null,
+   "volumen_ml": 100,
+   "fragrantica_url": "https://www.fragrantica.es/perfume/Lattafa-Perfumes/Badee-Al-Oud-Noble-Blush-122812.html",
+   "tiene_piramide": true,
+   "salida": [
+    "Leche de rosas"
+   ],
+   "corazon": [
+    "merengue",
+    "almendra"
+   ],
+   "fondo": [
+    "vainilla",
+    "sándalo",
+    "almizcle"
+   ],
+   "notas": [
+    "Leche de rosas",
+    "merengue",
+    "almendra",
+    "vainilla",
+    "sándalo",
+    "almizcle"
+   ],
+   "acordes": [
+    "dulce",
+    "atalcado",
+    "avainillado",
+    "almendrado",
+    "amaderado",
+    "almizclado",
+    "nueces",
+    "afrutados"
+   ],
+   "ficha": "https://privateriche.com/perfume-arabe/lattafa-badee-al-oud-noble-blush"
+  },
+  {
    "slug": "lattafa-badee-al-oud-sublime",
    "marca": "Lattafa",
    "nombre": "Bade'e Al Oud Sublime",
@@ -5051,57 +5282,97 @@
   {
    "slug": "lattafa-fakhar",
    "marca": "Lattafa",
-   "nombre": "Fakhar",
-   "genero": "hombre",
+   "nombre": "Fakhar Gold",
+   "genero": "unisex",
    "concentracion": "edp",
    "volumen_ml": 100,
-   "fragrantica_url": "https://www.fragrantica.es/perfume/Lattafa-Perfumes/Fakhar-Lattafa-30864.html",
+   "fragrantica_url": "https://www.fragrantica.es/perfume/Lattafa-Perfumes/Fakhar-Gold-128690.html",
    "tiene_piramide": true,
    "salida": [
-    "durazno (melocotón)",
-    "pera",
-    "naranja",
-    "manzana",
-    "grosellas negras"
+    "nardos",
+    "sal"
    ],
    "corazon": [
-    "flor de azahar del naranjo",
-    "rosa",
-    "jazmín sambac (sampaguita)"
+    "ámbar",
+    "cachemira",
+    "haba tonka"
    ],
    "fondo": [
-    "vainilla",
-    "pachulí",
-    "madera de sándalo",
-    "almizcle"
+    "cedro",
+    "vetiver",
+    "ládano"
    ],
    "notas": [
-    "durazno (melocotón)",
-    "pera",
-    "naranja",
-    "manzana",
-    "grosellas negras",
-    "flor de azahar del naranjo",
-    "rosa",
-    "jazmín sambac (sampaguita)",
-    "vainilla",
-    "pachulí",
-    "madera de sándalo",
-    "almizcle"
+    "nardos",
+    "sal",
+    "ámbar",
+    "cachemira",
+    "haba tonka",
+    "cedro",
+    "vetiver",
+    "ládano"
    ],
    "acordes": [
-    "afrutados",
-    "floral blanco",
-    "dulce",
-    "cítrico",
+    "ámbar",
     "amaderado",
+    "nardos",
+    "floral blanco",
     "atalcado",
-    "avainillado",
-    "rosas",
-    "pachulí",
-    "fresco"
+    "almizclado",
+    "animálico",
+    "aromático",
+    "avainillado"
    ],
    "ficha": "https://privateriche.com/perfume-arabe/lattafa-fakhar"
+  },
+  {
+   "slug": "lattafa-fakhar-platin",
+   "marca": "Lattafa",
+   "nombre": "Fakhar Platin",
+   "genero": "unisex",
+   "concentracion": null,
+   "volumen_ml": 100,
+   "fragrantica_url": "https://www.fragrantica.es/perfume/Lattafa-Perfumes/Fakhar-Platin-107363.html",
+   "tiene_piramide": true,
+   "salida": [
+    "bergamota",
+    "pimienta rosa",
+    "cardamomo"
+   ],
+   "corazon": [
+    "guayaba",
+    "lavanda",
+    "jengibre"
+   ],
+   "fondo": [
+    "incienso",
+    "palo santo",
+    "sándalo"
+   ],
+   "notas": [
+    "bergamota",
+    "pimienta rosa",
+    "cardamomo",
+    "guayaba",
+    "lavanda",
+    "jengibre",
+    "incienso",
+    "palo santo",
+    "sándalo"
+   ],
+   "acordes": [
+    "amaderado",
+    "fresco especiado",
+    "aromático",
+    "lavanda",
+    "cítrico",
+    "afrutados",
+    "cálido especiado",
+    "tropical",
+    "ámbar",
+    "fresco"
+   ],
+   "ficha": "https://privateriche.com/perfume-arabe/lattafa-fakhar-platin"
   },
   {
    "slug": "lattafa-fakhar-rose",
@@ -5160,6 +5431,59 @@
     "florales"
    ],
    "ficha": "https://privateriche.com/perfume-arabe/lattafa-fakhar-rose"
+  },
+  {
+   "slug": "lattafa-fakhar-silver",
+   "marca": "Lattafa",
+   "nombre": "Fakhar Silver",
+   "genero": "hombre",
+   "concentracion": null,
+   "volumen_ml": 100,
+   "fragrantica_url": "https://www.fragrantica.es/perfume/Lattafa-Perfumes/Fakhar-Black-70465.html",
+   "tiene_piramide": true,
+   "salida": [
+    "manzana",
+    "bergamota",
+    "jengibre"
+   ],
+   "corazon": [
+    "lavanda",
+    "salvia",
+    "bayas de enebro",
+    "geranio"
+   ],
+   "fondo": [
+    "haba tonka",
+    "cedro",
+    "Amberwood",
+    "vetiver"
+   ],
+   "notas": [
+    "manzana",
+    "bergamota",
+    "jengibre",
+    "lavanda",
+    "salvia",
+    "bayas de enebro",
+    "geranio",
+    "haba tonka",
+    "cedro",
+    "Amberwood",
+    "vetiver"
+   ],
+   "acordes": [
+    "aromático",
+    "fresco especiado",
+    "amaderado",
+    "afrutados",
+    "fresco",
+    "cítrico",
+    "lavanda",
+    "verde",
+    "herbal",
+    "ámbar"
+   ],
+   "ficha": "https://privateriche.com/perfume-arabe/lattafa-fakhar-silver"
   },
   {
    "slug": "lattafa-haya",
@@ -6775,6 +7099,55 @@
    "ficha": "https://privateriche.com/perfume-arabe/rasasi-hawas-fire"
   },
   {
+   "slug": "rasasi-hawas-for-her",
+   "marca": "Rasasi",
+   "nombre": "Hawas for Her",
+   "genero": "mujer",
+   "concentracion": "edp",
+   "volumen_ml": 100,
+   "fragrantica_url": "https://www.fragrantica.es/perfume/Rasasi/Hawas-for-Her-67146.html",
+   "tiene_piramide": true,
+   "salida": [
+    "granada",
+    "manzana",
+    "toronja (pomelo)"
+   ],
+   "corazon": [
+    "iris",
+    "jazmín sambac (sampaguita)",
+    "cítricos"
+   ],
+   "fondo": [
+    "praliné",
+    "pachulí",
+    "vetiver"
+   ],
+   "notas": [
+    "granada",
+    "manzana",
+    "toronja (pomelo)",
+    "iris",
+    "jazmín sambac (sampaguita)",
+    "cítricos",
+    "praliné",
+    "pachulí",
+    "vetiver"
+   ],
+   "acordes": [
+    "amaderado",
+    "dulce",
+    "afrutados",
+    "terrosos",
+    "cítrico",
+    "pachulí",
+    "iris",
+    "fresco especiado",
+    "fresco",
+    "floral blanco"
+   ],
+   "ficha": "https://privateriche.com/perfume-arabe/rasasi-hawas-for-her"
+  },
+  {
    "slug": "rasasi-hawas-ice",
    "marca": "Rasasi",
    "nombre": "Hawas Ice",
@@ -7034,55 +7407,6 @@
    "ficha": "https://privateriche.com/perfume-arabe/rasasi-hawas-viper"
   },
   {
-   "slug": "rasasi-hawas-for-her",
-   "marca": "Rasasi",
-   "nombre": "Hawas for Her",
-   "genero": "mujer",
-   "concentracion": "edp",
-   "volumen_ml": 100,
-   "fragrantica_url": "https://www.fragrantica.es/perfume/Rasasi/Hawas-for-Her-67146.html",
-   "tiene_piramide": true,
-   "salida": [
-    "granada",
-    "manzana",
-    "toronja (pomelo)"
-   ],
-   "corazon": [
-    "iris",
-    "jazmín sambac (sampaguita)",
-    "cítricos"
-   ],
-   "fondo": [
-    "praliné",
-    "pachulí",
-    "vetiver"
-   ],
-   "notas": [
-    "granada",
-    "manzana",
-    "toronja (pomelo)",
-    "iris",
-    "jazmín sambac (sampaguita)",
-    "cítricos",
-    "praliné",
-    "pachulí",
-    "vetiver"
-   ],
-   "acordes": [
-    "amaderado",
-    "dulce",
-    "afrutados",
-    "terrosos",
-    "cítrico",
-    "pachulí",
-    "iris",
-    "fresco especiado",
-    "fresco",
-    "floral blanco"
-   ],
-   "ficha": "https://privateriche.com/perfume-arabe/rasasi-hawas-for-her"
-  },
-  {
    "slug": "rasasi-la-yuqawam",
    "marca": "Rasasi",
    "nombre": "La Yuqawam",
@@ -7272,6 +7596,63 @@
     "atalcado"
    ],
    "ficha": "https://privateriche.com/perfume-arabe/swiss-arabian-nouf"
+  },
+  {
+   "slug": "swiss-arabian-oud-24-hours",
+   "marca": "Ard Al Zaafaran",
+   "nombre": "Oud 24 Hours",
+   "genero": "unisex",
+   "concentracion": "edp",
+   "volumen_ml": 100,
+   "fragrantica_url": "https://www.fragrantica.es/perfume/Ard-Al-Zaafaran/Oud-24-Hours-42090.html",
+   "tiene_piramide": true,
+   "salida": [
+    "chocolate oscuro",
+    "mandarina",
+    "bergamota"
+   ],
+   "corazon": [
+    "notas especiadas",
+    "notas afrutadas",
+    "gardenia",
+    "ylang-ylang",
+    "jazmín"
+   ],
+   "fondo": [
+    "pachulí",
+    "madera de oud",
+    "sándalo",
+    "incienso",
+    "ámbar"
+   ],
+   "notas": [
+    "chocolate oscuro",
+    "mandarina",
+    "bergamota",
+    "notas especiadas",
+    "notas afrutadas",
+    "gardenia",
+    "ylang-ylang",
+    "jazmín",
+    "pachulí",
+    "madera de oud",
+    "sándalo",
+    "incienso",
+    "ámbar"
+   ],
+   "acordes": [
+    "cálido especiado",
+    "amaderado",
+    "dulce",
+    "chocolate",
+    "ámbar",
+    "pachulí",
+    "afrutados",
+    "floral blanco",
+    "cítrico",
+    "balsámico"
+   ],
+   "ficha": "https://privateriche.com/perfume-arabe/swiss-arabian-oud-24-hours"
   },
   {
    "slug": "swiss-arabian-rasheeqa",
